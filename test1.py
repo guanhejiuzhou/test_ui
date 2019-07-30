@@ -14,3 +14,4 @@ str_list=json.loads(list_str)
 print('字符串list_str反序列化后的内容:{0}和类型:{1}'.format(str_list,type(str_list)))
 
 print('哈哈哈')
+print('哈哈哈')
