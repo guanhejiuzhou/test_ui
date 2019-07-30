@@ -12,3 +12,5 @@ print('列表list1序列化后的内容:{0}和类型{1}'.format(list_str,type(li
 str_list=json.loads(list_str)
 #反序列化后类型为list
 print('字符串list_str反序列化后的内容:{0}和类型:{1}'.format(str_list,type(str_list)))
+
+print('哈哈哈')
